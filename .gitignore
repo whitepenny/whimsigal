@@ -5,8 +5,6 @@
 # Icon must end with two \r
 Icon
 node_modules/
-apple-touch-icon*
-favicon.ico
 
 # Thumbnails
 ._*
