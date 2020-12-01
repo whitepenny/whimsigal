@@ -158,7 +158,7 @@ gulp.task('favicon', function (done) {
         backgroundColor: '#ffffff',
         themeColor: '#ffffff',
         manifest: {
-          name: 'MAVEN',
+          name: 'Whimsigal Balloons',
           display: 'standalone',
           orientation: 'notSet',
           onConflict: 'override',
